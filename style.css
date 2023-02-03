@@ -1,0 +1,29 @@
+.container {
+    width: 40%;
+    padding: 20px;
+    background-color: rgb(71, 97, 243);
+    margin: auto;
+    border-radius: 0 0 10px 10px;
+    font-family: verdana;
+}
+
+h1 {
+    width: 40%;
+    padding: 20px;
+    background-color: rgb(53, 80, 199);
+    margin: auto;
+    text-align: center;
+    border-radius: 10px 10px 0 0 ;
+}
+
+
+input , button {
+    padding: 8px;
+    border: none;
+    box-shadow: 5px 5px 5px  rgb(53, 80, 199);
+    border-radius: 5px;
+    justify-content: center;
+    margin-left: 10px;
+   
+}
+
